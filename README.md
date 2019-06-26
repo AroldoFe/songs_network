@@ -19,7 +19,7 @@ as 20 principais músicas de cada artista e identificar o vocabulário mais usad
 <li><a href='https://pypi.org/project/nxviz/'>nxviz</a></li>
 
 <h2>Mais informações</h2>
-<p>Para mais informações, é possível acessasr o artigo na plataforma Medium clicando <a href=''>aqui</a></p>
+<p>Para mais informações, é possível acessasr o artigo na plataforma Medium clicando <a href='https://medium.com/@danielleiros_27747/o-que-elas-cantam-uma-an%C3%A1lise-de-rede-de-balan%C3%A7ar-o-esqueleto-2f8e3fbace46?postPublishedType=initial'>aqui</a></p>
 <h2>Autores</h2>
 <li>Aroldo Felix Pereira Júnior (junioraroldo37@gmail.com)</li>
 <li>Daniel Maciel de Leiros Ferreira (danielmleiros@hotmail.com)</li>
